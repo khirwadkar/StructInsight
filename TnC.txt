@@ -1,0 +1,23 @@
+ACKNOWLEDGEMENT OF TERMS:
+
+The 'StructInsight' software is intended for the structural analysis of continuous beams.
+It is developed and made available by KITE (KHIRWADKAR INSTITUTE for TECHNOLOGICAL EXCELLENCE 
+through its proprietor Mr. Sanjay G. Khirwadkar), in the hope that it will be useful,
+but WITHOUT ANY WARRANTY. This software comes "as is" and "as available" with 
+no implied warranties or express guarantees. For this software, 
+KITE expressly disclaims all warranties of any kind, whether express or implied, 
+including, but not limited to the implied warranties of merchantability, 
+fitness for a particular purpose, correctness or reliability
+of results, and non-infringement. You assume all responsibility for the use of 
+this software, its modifications and output. You agree to verify the accuracy of all
+output and to satisfy yourself that the results meet or exceed your expectation 
+of accuracy and performance. You agree to hold harmless all persons and companies 
+involved in the creation of the software and all people involved in its distribution.
+Limitation of Liability: In no event, unless required by applicable law, will KITE,
+Mr. Sanjay G. Khirwadkar (Copyright holder), or any other party who modifies and/or conveys
+this software program, be liable to you for damages, including any general, special, incidental,
+or consequential damages arising out of the use or inability to use the program.
+
+THE USE OF THE SOFTWARE IS AN IMPLIED ACCEPTANCE OF THESE TERMS AND CONDITIONS. 
+
+
