@@ -16,7 +16,7 @@ This project was conceived to act as a teaching tool. It's primary aim is to dev
 
 ## Description of Modules
 
-This software was developed using programming features available in the Tiger version of the Java programming language (OpenJDK 1.5). The purpose of each of the three packages in this software and the classes within those packages is briefly described below. This should be helpful for the developers who want to improve/modify the program and adapt it to some specific needs. 
+This software was developed using programming features available in the Tiger version of the Java programming language (OpenJDK 1.5). The purpose of each of the three packages in this software and the classes within those packages is briefly described below. This should be helpful for the developers who want to improve/modify the program and adapt it to some specific needs.  For those who want to use the software as it is, the 'jar' file and the user manual available at https://structures.kitenagpur.com would be more useful and sufficient.
 
 ### Package structinsight2020
 
@@ -49,5 +49,5 @@ Only one file with name "Matrix.java" is part of this package, at present. Our s
 
 ------
 
-
+<u>Tip</u>:  Adjust your text editor to set the tab-stop to 4 spaces for better appearance of the source code.
 
