@@ -8,7 +8,7 @@ Structural analysis software, dealing with continuous beams; facilitates quick i
 
 ## Aim of the Project
 
-This project was conceived to act as a teaching tool. It's primary aim is to develop and enhance among the students, the "feel" of the behaviour of structures. Although there are quite a few popular structural analysis and design software programs available, this program differs by being simple to use, intuitive for data input, and quite lightweight. In the present state of its development, it allows the user to quickly define the geometry of a continuous beam, and then see its behaviour under different load combinations.  The behaviour, in the form of reactions, shear forces, and bending moments, is shown graphically as well as numerically, while deformations are given numerically. An undergraduate student can solve many exercise problems in very less amount of time using this software, and better internalise the understanding of the structural behaviour. Aided with this software, a professor/teacher can present more illustrative examples during their lecture. A working professional may use this software for creating the first rough design by quickly sifting through different alternative combinations of individual beams and loads.
+This project was conceived to act as a teaching tool. It's primary aim is to help the students for developing and enhancing  the "feel" of the behaviour of structures. Although there are quite a few popular structural analysis and design software programs available, this program differs by being simple to use, intuitive for data input, and quite lightweight. In the present state of its development, it allows the user to quickly define the geometry of a continuous beam, and then see its behaviour under different load combinations.  The behaviour, in the form of reactions, shear forces, and bending moments, is shown graphically as well as numerically, while deformations are given numerically. An undergraduate student can solve many exercise problems in very less amount of time using this software, and better internalise the understanding of the structural behaviour. Aided with this software, a professor/teacher can present more illustrative examples during their lecture. A working professional may use this software for creating the first rough design by quickly sifting through different alternative combinations of individual beams and loads.
 
 ------
 
@@ -16,7 +16,9 @@ This project was conceived to act as a teaching tool. It's primary aim is to dev
 
 ## Description of Modules
 
-This software was developed using programming features available in the Tiger version of the Java programming language (OpenJDK 1.5). The purpose of each of the three packages in this software and the classes within those packages is briefly described below. This should be helpful for the developers who want to improve/modify the program and adapt it to some specific needs.  For those who want to use the software as it is, just a single file  'structinsight.jar'  would be sufficient.
+This software was developed using programming features available in the Tiger version of the Java programming language (OpenJDK 1.5). The purpose of each of the three packages in this software and the classes within those packages is briefly described below. This should be helpful for the developers who want to improve/modify the program and adapt it to some specific needs.  
+
+<u>N.B.</u>: For those who just want to use the software as it is, a single file  'structinsight.jar'  would be sufficient. To understand how to deal with this file and to see a couple of illustrative examples, please refer the 'StructInsightUserManual-2021.pdf' file.
 
 ### Package structinsight2020
 
